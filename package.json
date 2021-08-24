@@ -1,0 +1,19 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Aprendere de asinconismo en JS",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielMarinBeltran/asincronismo.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanielMarinBeltran/asincronismo/issues"
+  },
+  "homepage": "https://github.com/DanielMarinBeltran/asincronismo#readme"
+}
