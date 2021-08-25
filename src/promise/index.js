@@ -1,5 +1,5 @@
 const sometingWillHappen = () => {
-    return new Promise((resolver, rejet) =>{
+    return new Promise((resolver, reject) =>{
         if (true){
             resolver('Hey!');
         }else{
