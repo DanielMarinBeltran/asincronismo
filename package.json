@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DanielMarinBeltran/asincronismo/issues"
   },
-  "homepage": "https://github.com/DanielMarinBeltran/asincronismo#readme"
+  "homepage": "https://github.com/DanielMarinBeltran/asincronismo#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
